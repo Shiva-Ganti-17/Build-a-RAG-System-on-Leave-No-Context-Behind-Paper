@@ -1,7 +1,4 @@
 # Build-a-RAG-System-on-Leave-No-Context-Behind-Paper
-
-# RAG System on "Leave No Context Behind" Paper
-
 Welcome to the RAG (Retrieve, Analyze, Generate) System repository! This project utilizes cutting-edge AI technology to provide insightful answers to questions based on the content of the "Leave No Context Behind" paper published by Google.
 
 ## Overview
